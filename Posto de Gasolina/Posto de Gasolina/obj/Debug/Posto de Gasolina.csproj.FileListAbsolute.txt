@@ -1,0 +1,8 @@
+C:\Users\Pichau\Desktop\Posto de Gasolina\Posto de Gasolina\bin\Debug\Posto de Gasolina.exe.config
+C:\Users\Pichau\Desktop\Posto de Gasolina\Posto de Gasolina\bin\Debug\Posto de Gasolina.exe
+C:\Users\Pichau\Desktop\Posto de Gasolina\Posto de Gasolina\bin\Debug\Posto de Gasolina.pdb
+C:\Users\Pichau\Desktop\Posto de Gasolina\Posto de Gasolina\obj\Debug\Posto de Gasolina.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Posto de Gasolina\Posto de Gasolina\obj\Debug\Posto de Gasolina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\Posto de Gasolina\Posto de Gasolina\obj\Debug\Posto de Gasolina.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Posto de Gasolina\Posto de Gasolina\obj\Debug\Posto de Gasolina.exe
+C:\Users\Pichau\Desktop\Posto de Gasolina\Posto de Gasolina\obj\Debug\Posto de Gasolina.pdb
